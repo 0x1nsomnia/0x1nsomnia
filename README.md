@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **OSCP**
 
-- 🌱 I’m currently learning **Active Directory and Buffer Overflows**
+- 🌱 I’m currently studying **advanced Active Directory and Buffer Overflow exploitation**
 
 - 👯 I’m looking to hack with you on [Hack The Box](https://app.hackthebox.com/profile/481874) or [TryHackMe](https://tryhackme.com/p/lnsomnia)
 
