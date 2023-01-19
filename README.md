@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my **OSCP**
 
-- 🌱 I’m currently learning **New privilege escalation techniques**
+- 🌱 I’m currently learning **Linux Buffer Overflows**
 
 - 👯 I’m looking to hack with you on [Hack The Box](https://app.hackthebox.com/profile/481874) or [TryHackMe](https://tryhackme.com/p/lnsomnia)
 
