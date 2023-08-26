@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my **OSED** certification
 
-- 🌱 I’m currently learning **how to fuzz with AFL++**
+- 🌱 I’m currently learning **how to fuzz using AFL++**
 
 - 👯 I’m looking to hack with you on [Hack The Box](https://app.hackthebox.com/profile/481874) or [TryHackMe](https://tryhackme.com/p/lnsomnia)
 
