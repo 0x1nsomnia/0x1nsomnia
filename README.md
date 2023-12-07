@@ -2,9 +2,9 @@
 <h3 align="center">I build 🔨 and break 👾 things.</h3>
 <h5 align="center">(new github, same me)</h5>
 
-- 🔭 I’m currently working on my **OSED** certification
+- 🔭 I’m currently developing bots
 
-- 🌱 I’m currently learning **how to fuzz using AFL++**
+- 🌱 I’m currently learning **Java Programming**
 
 - 👯 I’m looking to hack with you on [Hack The Box](https://app.hackthebox.com/profile/481874) or [TryHackMe](https://tryhackme.com/p/lnsomnia)
 
