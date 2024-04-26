@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently developing bots
 
-- 🌱 I’m currently brushing up on **Java Programming**
+- 🌱 I’m currently studying the Windows API
 
 - 👯 I’m looking to hack with you on [Hack The Box](https://app.hackthebox.com/profile/481874) or [TryHackMe](https://tryhackme.com/p/lnsomnia)
 
