@@ -2,7 +2,7 @@
 <h3 align="center">I build 🔨 and break 👾 things.</h3>
 <h5 align="center">(new github, same me)</h5>
 
-- 🔭 I’m currently developing malware
+- 🔭 I’m currently fuzzing!
 
 - 🌱 I’m currently studying the Windows API
 
